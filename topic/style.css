@@ -9,6 +9,7 @@ body{
 
 a{
   color: goldenrod;
+  text-decoration: none;
 }
 
 div#intro{
