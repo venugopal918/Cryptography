@@ -41,7 +41,7 @@ div#t1{
 	margin-top: 10px;
 	background-color: dimgrey;
 	height: 390px;
-  font-size: 30px;
+  font-size: 25px;
   overflow: auto;
 }
 
@@ -52,7 +52,7 @@ div#t1{
 	background-color: lightgoldenrodyellow;
 	color: black;
   height: 72px;
-  font-size: 30px;
+  font-size: 25px;
   width: 105%;
 }
 
@@ -65,7 +65,7 @@ div#t2{
 	height: 390px;
 	margin-right: 3px;
 	overflow: auto;
-  font-size: 30px;
+  font-size: 25px;
 }
 
 #s2{
