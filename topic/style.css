@@ -33,7 +33,7 @@ div#t1{
 	border: 1px black solid;
 	margin-top: 10px;
 	background-color: dimgrey;
-	height: 350px;
+	height: 375px;
   font-size: 30px;
   overflow: auto;
 }
@@ -44,7 +44,7 @@ div#t1{
 	padding-bottom: 2px;
 	background-color: lightgoldenrodyellow;
 	color: black;
-  height: 70px;
+  height: 72px;
   font-size: 30px;
 }
 
@@ -54,7 +54,7 @@ div#t2{
 	margin-top: 10px;
 	background-color: dimgrey;
 	margin-left: 3px;
-	height: 350px;
+	height: 375px;
 	margin-right: 3px;
 	overflow: auto;
   font-size: 30px;
@@ -67,7 +67,7 @@ div#t2{
 	background-color: lightgoldenrodyellow;
 	color: black;
   font-size: 30px;
-  height: 70px;
+  height: 72px;
 }
 
 div#t3{
@@ -75,7 +75,7 @@ div#t3{
 	border: 1px black solid;
 	width: 100%;
 	margin-top: 10px;
-	height: 350px;
+	height: 375px;
 	background-color: dimgrey;
   font-size: 30px;
   overflow: auto;
@@ -88,7 +88,7 @@ div#t3{
 	background-color: lightgoldenrodyellow;
 	color: black;
   font-size: 30px;
-  height: 70px;
+  height: 72px;
 }
 @media (min-width: 992px) {
   .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
