@@ -7,12 +7,18 @@ body{
 
 }
 
+a{
+  color: goldenrod;
+}
+
 div#intro{
 color: white;
 border: 1px black solid;
 background-color: black;
 width: 100%;
 font-size: 30px;
+padding-bottom: 3px;
+padding-top: 3px;
 }
 
 .crypt{
@@ -33,7 +39,7 @@ div#t1{
 	border: 1px black solid;
 	margin-top: 10px;
 	background-color: dimgrey;
-	height: 375px;
+	height: 390px;
   font-size: 30px;
   overflow: auto;
 }
@@ -46,6 +52,7 @@ div#t1{
 	color: black;
   height: 72px;
   font-size: 30px;
+  width: 105%;
 }
 
 div#t2{
@@ -54,7 +61,7 @@ div#t2{
 	margin-top: 10px;
 	background-color: dimgrey;
 	margin-left: 3px;
-	height: 375px;
+	height: 390px;
 	margin-right: 3px;
 	overflow: auto;
   font-size: 30px;
@@ -68,6 +75,7 @@ div#t2{
 	color: black;
   font-size: 25px;
   height: 72px;
+  width: 102%;
 }
 
 div#t3{
@@ -75,7 +83,7 @@ div#t3{
 	border: 1px black solid;
 	width: 100%;
 	margin-top: 10px;
-	height: 375px;
+	height: 390px;
 	background-color: dimgrey;
   font-size: 25px;
   overflow: auto;
